@@ -1,0 +1,6 @@
+[package]
+name = "beam"
+version = "1.0.0"
+edition = "2026"
+
+[dependencies]
